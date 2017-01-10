@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.Corpo {
+	background-color: #E9DABB;
+	background-image: url(../corpo3.jpg);
+	background-repeat: repeat;
+}
+.botoes {
+	background-image: url(../menu.jpg);
+	background-repeat: repeat-x;
+	vertical-align: top;
+}
+.cabeca {
+	background-image: url(../cabeca.jpg);
+}
+.Rodape {
+	background-image: url(../rodape.jpg);
+	font-family: "Myriad Pro", "Myriad Pro Cond", "Myriad Pro Light";
+	color: #FFF;
+	font-size: 16px;
+	text-align: center;
+}
+.direitos {
+	font-family: "Myriad Pro", "Myriad Pro Cond", "Myriad Pro Light";
+	font-size: 12px;
+	text-align: center;
+	vertical-align: text-bottom;
+}
+.camisas {
+	background-image: url(../corpo_camisas5.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+	vertical-align: top;
+}
+
+.camisas2 {
+	background-image: url(../corpo_camisas.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+	vertical-align: top;
+}
+
+.camisasmenu {
+	background-image: url(../pagina%20camisas/barra-fundo%20menu%20de%20categorias.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.mensagem {
+	background-image: url(../corpo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	vertical-align: middle;
+}
